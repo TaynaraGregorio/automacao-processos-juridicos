@@ -17,5 +17,3 @@ Automação web desenvolvida em Python com Selenium para consulta de processos j
 - Selenium
 - Pandas
 - openpyxl
-
-## 📁 Estrutura do projeto
